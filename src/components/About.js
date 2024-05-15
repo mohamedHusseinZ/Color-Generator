@@ -27,4 +27,3 @@ const About = () => {
 };
 
 export default About;
-fffe
